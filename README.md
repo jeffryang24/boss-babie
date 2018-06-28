@@ -27,7 +27,7 @@ chmod +x start_contribute.sh && ./start_contribute.sh
 
 # Attention
 
-Because current project structured is not cleanly maintained, so this project will be suspended until the new project structure and design have been decided. This project is not dead, and it will born using the new project structure, convention, and style.
+Because current project structure is not cleanly maintained, so this project will be suspended until the new project structure and design have been decided. This project is not dead, and it will born using the new project structure, convention, and style.
 
 # Junks Lab Relationship
 
